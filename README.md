@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jephta Madziva</h1>
-<h3 align="center">Web Developer | Frontend Specialist | Mechatronics Graduate</h3>
+<h3 align="center"> Front-End Web Developer | Graphic Designer | Electronic Systems Developer</h3>
 
 <p align="center">
   <a href="https://mjt97.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
