@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jephta Madziva</h1>
+<h3 align="center">Web Developer | Frontend Specialist | Mechatronics Graduate</h3>
 
-<!--
-**JEPHTA-Madziva/Jephta-Madziva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://mjt97.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="mailto:madzivajephta@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://www.tiktok.com/@jephthamadziva" target="_blank"><img src="https://img.shields.io/badge/TikTok-010101?logo=tiktok&logoColor=white&style=for-the-badge" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+I’m a passionate **Front-End Web Developer** with a background in **Mechatronics Engineering**. With over **3 years of experience**, I bring a blend of **technical problem-solving** and **creative web design**. I specialize in building clean, responsive, and modern websites that are both user-friendly and functional.
+
+---
+
+### 🛠️ Technologies & Tools
+<p align="left">
+  <!-- Web Dev -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  
+  <!-- Design -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40" />
+
+  <!-- CAD & Simulation -->
+  <img src="https://www.moosoft.com/wp-content/uploads/2024/08/Autodesk_Fusion_360.png" title="Fusion 360" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/solidworks.png" title="SolidWorks" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/FreeCAD-logo.svg/2048px-FreeCAD-logo.svg.png" title="FreeCAD" width="40" />
+
+  <!-- Embedded & Circuit Design -->
+  <img src="https://pngset.com/images/mplab-x-ide-mplab-x-ide-logo-word-text-scoreboard-label-transparent-png-2874300.png" title="MPLAB X IDE" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Fritzing_icon_%28new%29.png" title="Fritzing" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" title="Proteus Simulator" width="40" />
+</p>
+
+---
+
+### 📂 Projects
+- 🔹 **[Portfolio Website](https://jephtamadziva.netlify.app/)** – A modern, interactive portfolio showcasing my work and skills.
+- 🔹 **[Crestline Financial](https://crestlinefinancialservices.co.za/)** – A formal financial services site.
+- 🔹 **[TASH Designs](https://mjt97.github.io/TASH_DESIGNS/)** – A minimalist portfolio for a design entrepreneur.
+- 🔹 **Ernlo** – A website built for a running and shopping service (HTML/CSS, animations, carousels).
+- 🔹 **[The ORCHARD]()** *(in progress)* – Smart agriculture solution blending IoT and web tech.
+
+---
+
+### 🎓 Education
+**Diploma in Mechatronics**  
+Cape Peninsula University of Technology, 2023  
+🏅 Ranked Top 10 | Scored 80% in Mechatronic Systems | Certified in PLC Level 1
+
+---
+
+### 🤝 Let’s Connect!
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:madzivajephta@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
+  <a href="https://www.tiktok.com/@jephthamadziva" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?logo=tiktok&style=for-the-badge" /></a>
+  <a href="https://jephtamadziva.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-grey?logo=google-chrome&style=for-the-badge" /></a>
+</p>
