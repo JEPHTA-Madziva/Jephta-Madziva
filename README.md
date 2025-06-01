@@ -43,8 +43,6 @@ I’m a passionate **Front-End Web Developer** with a background in **Mechatroni
 ### 📂 Projects
 - 🔹 **[Portfolio Website](https://jephtamadziva.netlify.app/)** – A modern, interactive portfolio showcasing my work and skills.
 - 🔹 **[Crestline Financial](https://crestlinefinancialservices.co.za/)** – A formal financial services site.
-- 🔹 **[TASH Designs](https://mjt97.github.io/TASH_DESIGNS/)** – A minimalist portfolio for a design entrepreneur.
-- 🔹 **Ernlo** – A website built for a running and shopping service (HTML/CSS, animations, carousels).
 - 🔹 **[The ORCHARD]()** *(in progress)* – Smart agriculture solution blending IoT and web tech.
 
 ---
