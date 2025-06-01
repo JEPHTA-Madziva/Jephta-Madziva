@@ -22,17 +22,22 @@ I’m a passionate **Front-End Web Developer** with a background in **Mechatroni
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-  
+</p>
+<p align="left">
   <!-- Design -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40" />
-
+</p>
+<p align="left">
   <!-- CAD & Simulation -->
   <img src="https://www.moosoft.com/wp-content/uploads/2024/08/Autodesk_Fusion_360.png" title="Fusion 360" width="40" />
   <img src="https://img.icons8.com/color/48/000000/solidworks.png" title="SolidWorks" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/FreeCAD-logo.svg/2048px-FreeCAD-logo.svg.png" title="FreeCAD" width="40" />
-
+</p>
+<p align="left">
   <!-- Embedded & Circuit Design -->
+  <img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" title="ESP32" width="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/arduino-icon-512x349-9msfxgko.png" title="Arduino" width="40"/>
   <img src="https://pngset.com/images/mplab-x-ide-mplab-x-ide-logo-word-text-scoreboard-label-transparent-png-2874300.png" title="MPLAB X IDE" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Fritzing_icon_%28new%29.png" title="Fritzing" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" title="Proteus Simulator" width="40" />
@@ -43,8 +48,10 @@ I’m a passionate **Front-End Web Developer** with a background in **Mechatroni
 ### 📂 Projects
 - 🔹 **[Portfolio Website](https://jephtamadziva.netlify.app/)** – A modern, interactive portfolio showcasing my work and skills.
 - 🔹 **[Crestline Financial](https://crestlinefinancialservices.co.za/)** – A formal financial services site.
-- 🔹 **[The ORCHARD]()** *(in progress)* – Smart agriculture solution blending IoT and web tech.
-
+-  **[The ORCHARD]()** *(in progress)* – Smart agriculture solution blending IoT and web tech.
+-  **[Power-Gate One]** *(in progress)* -  TP4056-based power supply and monitoring unit.
+-  **[PIC-Based Module]** *(in progress)* -  A PIC16F877A integrated module for simple circuit computing.
+-  **[Agriculture Monitor]** *(in progress)* - A unit for monitoring plant growth and health.
 ---
 
 ### 🎓 Education
